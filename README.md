@@ -69,7 +69,7 @@ if(e.getSource()==button3)
 			 fw.close();关闭
  # 六、系统运行截图
  ![text](https://github.com/zhangqieyan/final/blob/master/1.png);
- ![text](https://github.com/zhangqieyan/final/blob/master/1.png);
+ ![text](https://github.com/zhangqieyan/final/blob/master/3%20(1).png);
  ![text](https://github.com/zhangqieyan/final/blob/master/3%20(2).png);
  ![text](https://github.com/zhangqieyan/final/blob/master/4.png);
  # 七、编程感想
